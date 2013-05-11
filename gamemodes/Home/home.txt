@@ -1,0 +1,14 @@
+Gamemode
+{
+	"base"		"base"
+	"title"		"Home"
+	"maps"		"^home"
+	menusystem	"3"
+	workshopid	"--"
+
+	"settings"
+	{
+
+	}
+
+}
